@@ -1,6 +1,6 @@
 #alias
 from matematik import topla as toplamaIslemi
-from work4 import Human
+from work5 import Human
 #import matematik as m
 import random
 print(toplamaIslemi(10,20))
